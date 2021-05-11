@@ -1,2 +1,4 @@
 D13CNPM4 
 Nguyễn Ngọc Quí
+git init
+git status
